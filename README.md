@@ -2,7 +2,7 @@
 
 ## 🎮 Game Developer | 🔧 Electronics Hobbyist | 💻 Programmer  
 
-Hi there! I'm **Codster17**, an enthusiastic creator with a passion for turning ideas into reality. Whether it's crafting immersive games or tinkering with electronics, I'm all about building and learning.  
+Hi there! I'm **Codster17**, an enthusiastic creator passionate about turning ideas into reality. I'm all about building and learning whether crafting immersive games or tinkering with electronics.  
 
 ---
 
@@ -12,15 +12,20 @@ Hi there! I'm **Codster17**, an enthusiastic creator with a passion for turning 
   - Game Development 🎮  
   - Arduino Projects 🤖  
   - Electronics and DIY 🔌  
-- 🛠️ **Hobbies:** Tinkering with circuits, coding, and experimenting with new tech.  
+- 🛠️ **Hobbies:** Tinkering with circuits, coding, and experimenting with new tech.
+
+---
+
 ![codster17's Stats](https://github-readme-stats.vercel.app/api?username=codster17&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
 ---
 
 ### 🧰 Skills & Tools:  
 - **Languages:**  
-  - C, Python, and more to come!  
+  - C++, Python, and more to come!  
 - **Platforms & Tools:**  
-  - Arduino  
+  - Arduino
+  - Esp32
   - Game Engines (Unity, Godot, etc.)  
   - Breadboards, Sensors, and Microcontrollers  
 
@@ -28,7 +33,9 @@ Hi there! I'm **Codster17**, an enthusiastic creator with a passion for turning 
 
 ### 📫 Let's Connect:  
 I'm always looking to collaborate, learn, and share knowledge. Feel free to reach out or check out my projects!  
+
 ![codster17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codster17&theme=dracula&hide_border=false)
 
 ✨ **"Code, Create, Conquer!"**  
+
 ![codster17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codster17&theme=dracula&show_icons=true&hide_border=false&layout=compact)
