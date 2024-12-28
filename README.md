@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @codster17
-- 👀 I’m interested in game development and Arduino.
-- 🌱 I’m currently learning c programming language.
-- Electronics hobbyist.
+# 👋 Welcome to Codster17's GitHub!  
 
-<!---
-codster17/codster17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎮 Game Developer | 🔧 Electronics Hobbyist | 💻 Programmer  
+
+Hi there! I'm **Codster17**, an enthusiastic creator with a passion for turning ideas into reality. Whether it's crafting immersive games or tinkering with electronics, I'm all about building and learning.  
+
+---
+
+### 🚀 About Me:  
+- 🌱 **Currently Exploring:** The **C programming language** to level up my skills.  
+- ⚡ **Interests:**  
+  - Game Development 🎮  
+  - Arduino Projects 🤖  
+  - Electronics and DIY 🔌  
+- 🛠️ **Hobbies:** Tinkering with circuits, coding, and experimenting with new tech.  
+
+---
+
+### 🧰 Skills & Tools:  
+- **Languages:**  
+  - C, Python, and more to come!  
+- **Platforms & Tools:**  
+  - Arduino  
+  - Game Engines (Unity, Godot, etc.)  
+  - Breadboards, Sensors, and Microcontrollers  
+
+---
+
+### 📫 Let's Connect:  
+I'm always looking to collaborate, learn, and share knowledge. Feel free to reach out or check out my projects!  
+
+✨ **"Code, Create, Conquer!"**  
